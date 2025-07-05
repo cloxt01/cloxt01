@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/CLion-2863B8?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />&nbsp; 
   <img src="https://img.shields.io/badge/PHPStorm-8C52EE?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm" />&nbsp; 
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />&nbsp;
