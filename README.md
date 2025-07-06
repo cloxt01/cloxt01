@@ -29,36 +29,59 @@
 
 ### 🛠️ EXPERTISE
 <p align="left">
-<img href="https://github.com" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>&nbsp;
 </p>
 
 <p align="left">
-  <img href="https://www.python.org/" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
-  <img href="https://www.php.net/" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>&nbsp;
+  <a href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  </a>&nbsp;
 </p>
 
 <p align="left">
-  <img href="https://web.dev/html?hl=id" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
-  <img href="https://web.dev/css?hl=id" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
-</p>
-  
-<p align="left">
-  <img href="https://www.mysql.com/" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-<p align="left">
-  <img href="https://www.jetbrains.com/clion/" src="https://img.shields.io/badge/CLion-2863B8?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />&nbsp; 
-  <img href="https://www.jetbrains.com/phpstorm/" src="https://img.shields.io/badge/PHPStorm-8C52EE?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm" />&nbsp;
-  <img href="https://code.visualstudio.com/" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <a href="https://web.dev/html?hl=id">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>&nbsp;
+  <a href="https://web.dev/css?hl=id">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>&nbsp;
 </p>
 
 <p align="left">
-  <img href="https://portswigger.net/burp" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />&nbsp;
-  <img href="https://mitmproxy.org/" src="https://img.shields.io/badge/Mitmproxy-2D645D?style=for-the-badge&logo=mitmproxy&logoColor=white" alt="Mitmproxy" />
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
 </p>
 
 <p align="left">
-  <img href="https://www.langchain.com/" src="https://img.shields.io/badge/LangChain-00AA45?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <a href="https://www.jetbrains.com/clion/">
+    <img src="https://img.shields.io/badge/CLion-2863B8?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
+  </a>&nbsp;
+  <a href="https://www.jetbrains.com/phpstorm/">
+    <img src="https://img.shields.io/badge/PHPStorm-8C52EE?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm" />
+  </a>&nbsp;
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  </a>
 </p>
 
+<p align="left">
+  <a href="https://portswigger.net/burp">
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  </a>&nbsp;
+  <a href="https://mitmproxy.org/">
+    <img src="https://img.shields.io/badge/Mitmproxy-2D645D?style=for-the-badge&logo=mitmproxy&logoColor=white" alt="Mitmproxy" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.langchain.com/">
+    <img src="https://img.shields.io/badge/LangChain-00AA45?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  </a>
+</p>
   
