@@ -2,10 +2,10 @@
 ### 💬 DISCUSS ROOM
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=3000&color=F7F7F7&center=true&vCenter=true&width=405&height=50&lines=[cloxt01]:+Weekend+plans%3F" alt="User's Question" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=3000&color=F7F7F7&center=true&vCenter=true&width=405&height=50&lines=[cloxt01]:+Manual+work,+I+can't+keep" alt="User's Question" />
 </p>
 <p align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=3000&color=F7F7F7&center=true&vCenter=true&width=400&height=50&lines=Making+more+bots+obvs+:[cBot]" alt="Robot Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=3000&color=F7F7F7&center=true&vCenter=true&width=400&height=50&lines=Automate+it,+then+go+sleep+:[cBot]" alt="Robot Message" />
 </p>
 
 ---
