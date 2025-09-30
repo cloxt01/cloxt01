@@ -47,14 +47,19 @@
 </p>
 
 
-<p align="left">
+<div align="left">
   <a href="https://web.dev/html?hl=id">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="https://web.dev/css?hl=id">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>&nbsp;
-</p>
+  </a>
+  &nbsp;
+  <a href="https://tailwindcss.com">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </a>
+</div>
 
 <p align="left">
   <a href="https://www.mysql.com/">
