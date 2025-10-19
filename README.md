@@ -59,15 +59,20 @@
   <a href="https://tailwindcss.com">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   </a>
-  &nbsp;
-  <a href="https://leafletjs.com/">
-    <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet.js" />
-  </a>
 </div>
 
 <p align="left">
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>&nbsp;
+  <a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   </a>
 </p>
 
@@ -82,6 +87,8 @@
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   </a>
 </p>
+
+
 
 <p align="left">
   <a href="https://portswigger.net/burp">
