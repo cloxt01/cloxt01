@@ -11,14 +11,6 @@
 ---
 
 
-### 📊 My Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloxt01&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cloxt01&theme=dark&hide_border=true)
-
----
-
 ### 🔗 CONNECT WITH ME
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
