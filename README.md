@@ -33,7 +33,7 @@ Prefer clean architecture, repeatable workflows, and systems that don’t requir
 </p>
 
 - CI/CD pipeline design
-- VPS / VM provisioning and management
+- VPS / VM management
 - Linux system administration
 - Networking fundamentals (routing, firewall, ports, VPN)
 - Automation scripting
