@@ -41,7 +41,7 @@ Prefer clean architecture, repeatable workflows, and systems that don’t requir
 ### Security Testing
 
 <p>
-  <img width="150" alt="output-onlinepngtools" src="https://github.com/user-attachments/assets/ff6b2a35-d0d0-45a1-80e9-e8ac1df0d6f5" />
+  <img width="180" alt="output-onlinepngtools" src="https://github.com/user-attachments/assets/ff6b2a35-d0d0-45a1-80e9-e8ac1df0d6f5" />
 </p>
 
 ### Frontend (Support Role)
